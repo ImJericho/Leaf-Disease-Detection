@@ -1,4 +1,4 @@
-tesorflow
+tensorflow
 numpy
 pillow
 streamlit
