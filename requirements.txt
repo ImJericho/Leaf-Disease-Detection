@@ -1,0 +1,6 @@
+tesorflow
+numpy
+matplotlib
+pillow
+tensorflow
+tensorflow-serving-api
