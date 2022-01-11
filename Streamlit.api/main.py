@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 from PIL import Image
 import tensorflow as tf
-MODEL = tf.keras.models.load_model("saved_model")
+MODEL = tf.keras.models.load_model(".")
 CLASS_NAMES = ["has Early Blight diesease","has Late Blight diesease", "Healthy"]
 
 
